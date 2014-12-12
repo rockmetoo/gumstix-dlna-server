@@ -1,6 +1,6 @@
 ## Overview
 
-How to make a gumstix overo as a personal dlna stream server.
+How to make a personal dlna stream server using gumstix overo.
 
 ## Hardware Requirements
 
