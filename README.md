@@ -12,6 +12,8 @@ How to make a personal dlna stream server using gumstix overo.
     Host os: Ubuntu
     Gumstix os: Yocto linux
 
+More Coming soon....
+
 ## Useful links
 
 [Visit overo](https://store.gumstix.com/index.php/category/33/)
