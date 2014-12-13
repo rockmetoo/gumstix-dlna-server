@@ -33,10 +33,21 @@ Move it on to your system path:
     $ mkdir yoctoLinux
     $ cd yoctoLinux
     
-Get the stable version:
+Get the stable linux version:
 
     $ repo init -u git://github.com/gumstix/Gumstix-YoctoProject-Repo.git -b master
     $ repo sync
+
+**3.  Initialize the build environment**
+
+    $ export TEMPLATECONF=meta-gumstix-extras/conf 
+    $ source ./poky/oe-init-build-env
+    
+**5.  Build a console image**
+
+    $ bitbake gumstix-console-image
+
+Go for a cool dinner or sleep. It may take some couple of hours depending on your network connection
     
 More Coming soon....
 
