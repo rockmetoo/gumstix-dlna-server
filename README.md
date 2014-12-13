@@ -43,7 +43,7 @@ Get the stable linux version:
     $ export TEMPLATECONF=meta-gumstix-extras/conf 
     $ source ./poky/oe-init-build-env
     
-**5.  Build a console image**
+**4.  Build a console image**
 
     $ bitbake gumstix-console-image
 
