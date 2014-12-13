@@ -47,7 +47,7 @@ Get the stable linux version:
 
     $ bitbake gumstix-console-image
 
-Go for a cool dinner or sleep. It may take some couple of hours depending on your network connection
+Go for a cool dinner or sleep. It may take some couple of hours depending on your network connection:relaxed:
     
 More Coming soon....
 
